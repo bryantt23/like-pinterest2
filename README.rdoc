@@ -1,0 +1,18 @@
+== README
+
+This website holds the Secret Identies of Many Superheroes.
+
+But the identies are only revealed when you Sign Up and Sign In. 
+
+This Project Includes:
+
+* Authorization and Authentication using Devise
+
+* Storage using Amazon S3
+
+* Uploading of Images using Paperclip
+
+
+See it here...
+
+https://evening-dawn-6473.herokuapp.com/
